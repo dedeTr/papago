@@ -1,41 +1,41 @@
 const INITIAL_STATE = {
   sections: [
     {
-      title: "sayur",
+      title: "Sayur",
       // imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
       imageUrl: "images/sayur.jpg", // local file in public/images/
       id: 1,
-      linkUrl: "shop/sayur",
+      linkUrl: "shop/hats",
     },
     {
-      title: "perabotan",
+      title: "jackets",
       // imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
       imageUrl: "images/perabotan.jpg", // local file in public/images/
       id: 2,
-      linkUrl: "shop/perabotan",
+      linkUrl: "shop/jackets",
     },
     {
-      title: "fashion",
+      title: "sneakers",
       // imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
       imageUrl: "images/jackets.png", // local file in public/images/
       id: 3,
-      linkUrl: "shop/fashion",
+      linkUrl: "shop/sneakers",
     },
     {
-      title: "makanan",
+      title: "womens",
       // imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
       imageUrl: "images/makanan.jpg", // local file in public/images/
       size: "large",
       id: 4,
-      linkUrl: "shop/makanan",
+      linkUrl: "shop/womens",
     },
     {
-      title: "minuman",
+      title: "mens",
       // imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
       imageUrl: "images/minuman.jpg", // local file in public/images/
       size: "large",
       id: 5,
-      linkUrl: "shop/minuman",
+      linkUrl: "shop/mens",
     },
   ]
 };
